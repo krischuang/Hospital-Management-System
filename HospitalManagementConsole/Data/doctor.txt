@@ -1,0 +1,4 @@
+10000#~Lucy Yang#~lucy@gmail.com#~0431555888#~4 Doc Street, Sy, NSW#~lucy123
+10001#~Jay Wang#~jay@gmail.com#~0432999888#~3 Doc Street, Sy, NSW#~jay123
+16069773#~Test Wu#~test@gmail.com#~0431111#~5 Admin st, f, ki#~123
+18886423#~Ra 1#~ra@gmail.com#~123#~2 RA, f, 34#~1
